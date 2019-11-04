@@ -4,4 +4,4 @@ Seismic data is obtained from USGS GeoJson page (https://earthquake.usgs.gov/ear
 
 The visualization shows a map of all earthquakes of magnitude larger than 2.5 over the last seven days recorded by the USGS.
 Please visit https://aalejandroq.github.io/Earthquake_Mapping_Leaflet/ to see visualization.
-![](image.PNG)
+![https://aalejandroq.github.io/Earthquake_Mapping_Leaflet/](image.PNG)
